@@ -45,5 +45,9 @@ Satellite coordination
 Education:
 2005 - 2009 Bobruisk State Motor Transport College, Automotive Mechanics Technology
 2009 - 2014 Belarusian State University of Informatics and Radioelectronics, Radioelectronics
-2014 - 2015 Institute of Telecommunication Satellite, Communication Satellite training programm
+2014 - 2015 Beijing Institute of Telecommunication Satellite, Communication Satellite training program
 ITU Radiocommunication Seminars
+
+English:
+A2
+Communication Satellite training program lasted 8 month and was provided totally in English
