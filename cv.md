@@ -41,3 +41,9 @@ Duty-shift management
 Satellite networking
 Harmful interference solving in radio communication
 Satellite coordination
+
+Education:
+2005 - 2009 Bobruisk State Motor Transport College, Automotive Mechanics Technology
+2009 - 2014 Belarusian State University of Informatics and Radioelectronics, Radioelectronics
+2014 - 2015 Institute of Telecommunication Satellite, Communication Satellite training programm
+ITU Radiocommunication Seminars
