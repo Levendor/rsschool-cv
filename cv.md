@@ -1,6 +1,6 @@
-#Andrei Chaitsyn
+# Andrei Chaitsyn
 
-##Contacts:
+## Contacts:
 * email: myth_of_lavanda@mail.ru
 * mobile: +375 29 5496529
 * discord: Levendor#0310
@@ -8,7 +8,7 @@
 * [LinkedIn](www.linkedin.com/in/andrei-chaitsyn-948140144)
 * [Codewars](https://www.codewars.com/users/Levendor)
 
-##Summary:
+## Summary:
 * созвездия летели вспять
 * ломалась грудь в слепой истоме
 * но листья падали как грязь
@@ -18,7 +18,7 @@
 * она лежит в тиши опять
 * ведь звёзды побеждают в споре
 
-##Skills:
+## Skills:
 * Engineering
 * AutoCAD
 * MS Excel
@@ -28,7 +28,7 @@
 * Communication Satellite
 * Radio Regulations
 
-##Code example:
+## Code example:
 ```
 function superSize(num){
   let str = String(num),
@@ -37,19 +37,19 @@ function superSize(num){
 }
 ```
 
-##Expirience:
+## Expirience:
 * Satellite control
 * Duty-shift management
 * Satellite networking
 * Harmful interference solving in radio communication
 * Satellite coordination
 
-##Education:
+## Education:
 1. 2005 - 2009 Bobruisk State Motor Transport College, Automotive Mechanics Technology
 2. 2009 - 2014 Belarusian State University of Informatics and Radioelectronics, Radioelectronics
 3. 2014 - 2015 Beijing Institute of Telecommunication Satellite, Communication Satellite training program
 4. ITU Radiocommunication Seminars
 
-##English:
+## English:
 * A2
 * Communication Satellite training program lasted 8 month and was provided totally in English
