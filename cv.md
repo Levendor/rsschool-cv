@@ -6,6 +6,7 @@ mobile: +375 29 5496529
 discord: Levendor#0310
 github: https://github.com/Levendor
 linkedin: www.linkedin.com/in/andrei-chaitsyn-948140144
+codewars: https://www.codewars.com/users/Levendor
 
 Summary:
 созвездия летели вспять
@@ -16,3 +17,27 @@ Summary:
 теперь спокойная от боли
 она лежит в тиши опять
 ведь звёзды побеждают в споре
+
+Skills:
+Engineering
+AutoCAD
+MS Excel
+ITU BR Soft
+Radiocommunications
+Space Communications
+Communication Satellite
+Radio Regulations
+
+Code example:
+function superSize(num){
+  let str = String(num),
+      arr = str.split('');
+  return +arr.sort().reverse().join('');
+}
+
+Expirience:
+Satellite control
+Duty-shift management
+Satellite networking
+Harmful interference solving in radio communication
+Satellite coordination
