@@ -27,27 +27,40 @@
 
 ## Skills:
 * Engineering
-* AutoCAD
+* HTML
+* CSS
+* JavaScript
 * MS Excel
-* ITU BR Soft
-* Radiocommunications
-* Space Communications
-* Communication Satellite
-* Radio Regulations
+* Git
+* VS Code
+
 
 ## Code example:
 ```javascript
-function superSize(num){
-  let str = String(num),
-      arr = str.split('');
-  return +arr.sort().reverse().join('');
+let ladder = {
+  step: 0,
+  up() {
+    this.step++;
+	return this;
+  },
+  down() {
+    this.step--;
+	return this;
+  },
+  showStep() {
+    console.log( this.step );
+	return this;
+  }
+};
+
+ladder.up().up().down().showStep();
 }
 ```
 
 ## Expirience:
 * Satellite control
 * Duty-shift management
-* Satellite networking
+* Satellite network management
 * Harmful interference solving in radio communication
 * Satellite coordination
 
@@ -58,5 +71,5 @@ function superSize(num){
 4. ITU Radiocommunication Seminars
 
 ## English:
-* A2
+* Pre-Intermediate (A2)
 * Communication Satellite training program lasted 8 month and was provided totally in English
