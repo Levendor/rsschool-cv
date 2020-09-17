@@ -1,12 +1,140 @@
+* {
+	margin: 0;
+  padding: 0;
+  font-size: 100%;
+	/* border: 1px solid #000; */
+}
+
+body {
+	background-color: #f2f2f2;
+}
+
+.header, .main, .footer {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.header {
+	display: flex;
+	background-color: #fff;
+	border-bottom: 1px solid #000;
+}
+
 .photo {
-    height: 205px;
-    width: 180px;
+  height: 205px;
+  width: 180px;
+	margin: 30px 25px 15px 30px;
+}
+
+.headdiv {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
 }
 
 .h1 {
-    font-size: 32px;
+  font-size: 48px;
+	display: flex;
+	margin-bottom: 30px;
+}
+
+.navigation {
+	margin-bottom: 30px;
+}
+
+.contacts {
+  display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	list-style-type: none;
+}
+
+nav>ul>li {
+	margin: 0 10px 0 0;
+}
+
+.pic {
+	height: 32px;
+  width: 32px;
+	margin: 0 5px 0 0;
+}
+
+a {
+	display: flex;
+	flex-direction: row;
+	text-decoration: none;
+	color: #000;
+	height: 32px;
+	line-height: 32px;
+}
+
+.main {	
+	display: flex;
+}
+
+.left, .right {
+	background-color: #666666;
+	width: 15%;
+}
+
+.article {	
+	display: flex;
+	flex-direction: column;
+	background-color: #fff;
+}
+
+.hidden {
+	display: none;
+}
+
+section {
+	padding: 0 30px 15px 100px;
+	margin: 0 15px;
 }
 
 .h2 {
-    font-size: 24px;
+  font-size: 24px;
+	margin: 15px 50% 15px 0;
+	border-bottom: 1px solid #fff8b1;
+	padding-left: 15px;
+}
+
+.ul, .ol {
+	margin-left: 20px;
+}
+
+.skills {
+}
+
+
+.code {
+}
+
+.pre {
+	background-color: #f2f2f2;
+}
+
+.expirience {
+}
+
+.edication {
+}
+
+.english {
+}
+
+.footer {
+	background-color: #666666;
+	height: 50px;
+	border-top: 1px solid #000;
+}
+
+.footp {
+	text-align: center;
+	margin-top: 16px;
+	margin-left: 15%;
+	margin-right: 15%;
+	display: flex;
+	justify-content: space-between;
 }
