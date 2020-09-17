@@ -33,6 +33,7 @@
 * MS Excel
 * Git
 * VS Code
+* Figma
 
 
 ## Code example:
@@ -63,6 +64,7 @@ ladder.up().up().down().showStep();
 * Satellite network management
 * Harmful interference solving in radio communication
 * Satellite coordination
+* International meetings
 
 ## Education:
 1. 2005 - 2009 Bobruisk State Motor Transport College, Automotive Mechanics Technology
@@ -73,3 +75,4 @@ ladder.up().up().down().showStep();
 ## English:
 * Pre-Intermediate (A2)
 * Communication Satellite training program lasted 8 month and was provided totally in English
+* Maintaining business correspondence regarding satellite coordination
